@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  local: one
+  nombre: MyString
+  marca: MyString
+  cantidad: 1
+
+two:
+  local: two
+  nombre: MyString
+  marca: MyString
+  cantidad: 1

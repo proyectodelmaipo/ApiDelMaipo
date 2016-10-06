@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  local: one
+  nombre: MyString
+  foto: MyString
+  valor: 1
+  descripcion: MyText
+  calendario: MyText
+
+two:
+  local: two
+  nombre: MyString
+  foto: MyString
+  valor: 1
+  descripcion: MyText
+  calendario: MyText
